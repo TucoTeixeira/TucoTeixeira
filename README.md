@@ -8,7 +8,7 @@ I'm from Brazil.
 - 🌱 I’m currently learning all I can about Data Science and AI.
 - 👯 I’m looking to collaborate on Data projects.
 - 💬 Ask me about anything, I'll do my best to help!
-- ⚡ Fun fact: I love to watch movies and play card games 📚
+- ⚡ Fun fact: I love to watch movies and play card games 🃏
 
 ### Languages and Tools
 
